@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "536197570564",
+    "project_id": "shopapp-60421",
+    "storage_bucket": "shopapp-60421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536197570564:android:6729053ca8a0051d55d551",
+        "android_client_info": {
+          "package_name": "com.terhaga.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536197570564-2igup4j3tt40614og1af9tk2d61ma883.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.terhaga.shop_app",
+            "certificate_hash": "ad88d20662def82ce11061cbc694c3b467856b5f"
+          }
+        },
+        {
+          "client_id": "536197570564-jqbu2e4t36qab0lft7fprs38u5uv5hv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF1QUU7gf59fkkxzrsOVxfunGfFwB-fkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536197570564-jqbu2e4t36qab0lft7fprs38u5uv5hv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
